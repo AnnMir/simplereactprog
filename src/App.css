@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.mark {
+  background: none;
+  border: none;
+}
+
+.mark img {
+  width: 25px;
+}
+
+.cluster {
+  color: #ffffff;
+  background: #1978c8;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

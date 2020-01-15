@@ -1,0 +1,28 @@
+{
+  "markers": [
+    {
+      "id": "1",
+      "name": "Sight_1",
+      "coordinatelat": 55,
+      "coordinatelng": 82.9
+    },
+    {
+      "id": "2",
+      "name": "Sight_2",
+      "coordinatelat": 55,
+      "coordinatelng": 83
+    },
+    {
+      "id": "3",
+      "name": "Sight_3",
+      "coordinatelat": 55,
+      "coordinatelng": 82.7
+    },
+    {
+      "id": "4",
+      "name": "Sight_4",
+      "coordinatelat": 55,
+      "coordinatelng": 82.6
+    }
+  ]
+}

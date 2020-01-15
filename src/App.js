@@ -32,7 +32,7 @@ export default function App() {
 
 
     return (<div style={{width: '100%', height: '100vh'}}>
-            <GoogleMap bootstrapURLKeys={{key: 'AIzaSyCHNa7StS1PhUHypWtJfsNRSlZC-UsGNLg'}}
+            <GoogleMap bootstrapURLKeys={{key: 'ключ Google Api'}}
                        defaultCenter={{lat: 55.030991, lng: 82.920448}}
                        defaultZoom={14}
                        yesIWantToUseGoogleMapApiInternals
